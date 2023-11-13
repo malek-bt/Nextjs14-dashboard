@@ -44,25 +44,25 @@ Check out the live demo of my portfolio at https://nextjs14-dashboard-three-nu.v
 
 ### Login page
 
-| ![](./screens/login.png) | ![](./screens/about-mobile.png) |
+| ![](./screens/login.png) | ![](./screens/login-mobile.png) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
 ### Invoices page
 
-| ![](./screens/invoices.png) | ![](./screens/work-mobile.png) |
+| ![](./screens/invoices.png) | ![](./screens/invoices-mobile.png) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
 ### Create invoice page
 
-| ![](./screens/create-invoice.png) | ![](./screens/skills-mobile.png) |
+| ![](./screens/create-invoice.png) | ![](./screens/invoices-invoice-mobile.png) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
 ### Update invoice page
 
-| ![](./screens/update-invoice.png) | ![](./screens/contact-mobile.png) |
+| ![](./screens/update-invoice.png) | ![](./screens/update-invoice-mobile.png) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
