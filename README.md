@@ -50,7 +50,7 @@ Check out the live demo of my portfolio at https://nextjs14-dashboard-three-nu.v
 
 ### Invoices page
 
-| ![](./screens/invoices.png) | ![](./screens/invoices-mobile.png) |
+| ![](./screens/invoices.png) | ![](./screens/invoices-mobile.jpeg) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
