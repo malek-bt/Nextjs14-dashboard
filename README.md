@@ -56,7 +56,7 @@ Check out the live demo of my portfolio at https://nextjs14-dashboard-three-nu.v
 
 ### Create invoice page
 
-| ![](./screens/create-invoice.png) | ![](./screens/invoices-invoice-mobile.png) |
+| ![](./screens/create-invoice.png) | ![](./screens/create-invoice-mobile.png) |
 | ------------------------------ | ----------------------------- |
 | Desktop version                | Mobile version                |
 
