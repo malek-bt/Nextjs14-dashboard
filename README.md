@@ -24,6 +24,7 @@ Here's an overview of the features I learned about in this course:
 This project was built using these technologies:
 
 - NextJS 
+- TypeScript
 - TailwindCSS
 - Postgresql
 - Vercel
