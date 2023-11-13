@@ -33,11 +33,18 @@ This project was built using these technologies:
 
 1. Installation: `npm i`
 
-3. In the project directory, you can run: `npm run dev`
+2. In the project directory, you can run: `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
+
+## Login
+
+You should be able to log in and out of your application using the following credentials:
+
+- **Email**: user@nextmail.com
+- **Password**: 123456
 
 ## Navigation
 
